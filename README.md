@@ -50,7 +50,7 @@ SPACE,Resetar câmera para a posição inicial
 Clone o repositório:
 
 Bash
-git clone https://github.com/FOX-Braga/Black_hole3D.git
+git clone https://github.com/FOX-Braga/Black_hole3D_Simulation.git 
 Certifique-se de configurar a memória RAM no seu ambiente (IDE ou Maven) para evitar erros de Heap Space:
 
 VM Options: -Xms1024m -Xmx2048m.
